@@ -1,1 +1,1 @@
-DB_CONNECTION = "postgres://postgres:Trans15069@198.199.72.47:5432/postgres"
+DB_CONNECTION = "postgres://postgres:1qaz2wsx3edc@127.0.0.1:5432/postgres"

@@ -44,8 +44,7 @@ def on_init():
     print(logs)
 
 
-if __name__ == '__main__':
-
+def run():
     # initialize all settings before launch bot
     on_init()
 
@@ -81,3 +80,7 @@ if __name__ == '__main__':
             logging.info(log)
             time.sleep(60)
             continue
+
+
+if __name__ == '__main__':
+    run()

@@ -6,4 +6,4 @@ RSI_PERIOD = 7
 AMOUNT_CONTRACTS = 5
 
 # === Set up True, if you want to save logs from previous launching
-SAVE_LOGS = False
+SAVE_LOGS = True
